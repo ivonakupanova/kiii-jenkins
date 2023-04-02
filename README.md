@@ -1,0 +1,1 @@
+This is a project created to try Jenkins automation server and implementation of CI/CD pipeline, defined with the Jenkinsfile.
